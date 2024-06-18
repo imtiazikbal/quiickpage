@@ -1,0 +1,1 @@
+[19-May-2024 16:37:15 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Auth\AuthenticatesUsers" not found in /home/quiickpage/admin.quiickpage.com/app/Http/Controllers/Auth/LoginController.php on line 10
